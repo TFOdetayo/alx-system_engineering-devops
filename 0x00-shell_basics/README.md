@@ -1,1 +1,1 @@
-A script that displays the content of the current working directory
+A script that changesthe working directory to the users home directory
