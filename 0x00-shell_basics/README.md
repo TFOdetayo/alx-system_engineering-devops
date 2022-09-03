@@ -1,1 +1,1 @@
-File type
+Weare symbols
