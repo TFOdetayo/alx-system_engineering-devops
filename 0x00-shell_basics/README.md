@@ -1,1 +1,1 @@
-Weare symbols
+Copy HTML files
