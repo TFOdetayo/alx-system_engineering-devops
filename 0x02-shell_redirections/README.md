@@ -1,1 +1,1 @@
- A script that would Display the content of /etc/passwd and /etc/hosts
+A script that creates a specific file
